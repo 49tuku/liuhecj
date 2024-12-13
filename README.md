@@ -3,7 +3,8 @@
 * 2025年[六合彩开奖系统图库源码](https://www.tuku325.cc/?cate=3)，采用当下最新技术栈，PHP+VUE开发的一套[六合彩开奖系统](https://www.tuku325.cc/)、图库系统。欢迎大家研究参考。
 
 ## 六合彩49图库搭建联系技术
-- https://cp567.cc/
+
+- [Telegram中文版下载](https://www.telagran.top/) 联系技术飞机-> https://cp567.cc/ ， 
 - https://www.tuku325.cc/?cate=3
   
 ## 六合彩开奖系统图库源码主要特性
@@ -22,3 +23,6 @@
 ![六合彩图库搭建](https://www.tuku325.cc/zb_users/upload/2023/08/202308231692720968648377.png "六合彩开奖系统图库源码")
 ![六合彩图库搭建](https://www.tuku325.cc/zb_users/upload/2024/11/202411161731761746853905.png "六合彩开奖系统图库源码")
 ![六合彩图库搭建](https://www.tuku325.cc/zb_users/upload/2024/10/202410141728874881242464.png "六合彩开奖系统图库源码")
+
+#### 提示
+部署服务器，推荐Linux系统，采用finalshell链接服务器，最好打开代理，推荐 [快连VPN下载](https://www.kuaivpn.cc/)，
